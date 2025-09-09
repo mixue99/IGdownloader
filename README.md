@@ -1,5 +1,5 @@
 # IGdownloader v.1
-Script Python untuk  mengunduh video dari halaman Instagram menggunakan Playwright.
+Script Python untuk mengunduh video dari Instagram secara batch proses.
 
 ## 🔧 Fitur
 
