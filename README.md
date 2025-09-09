@@ -1,4 +1,4 @@
-# IGdownloader
+# IGdownloader v.1
 Script Python untuk  mengunduh video dari halaman Instagram menggunakan Playwright.
 
 ## 🔧 Fitur
@@ -12,3 +12,13 @@ Script Python untuk  mengunduh video dari halaman Instagram menggunakan Playwrig
 
 1. Clone repo ini
 2. pip install -r requirements.txt
+
+## 📄 Cara Pakai
+
+1. Isi input.txt dengan URL video Instagram (satu per baris)
+2. Run file IGdownloader.py
+
+## ⚠️ Catatan
+
+Script ini hanya bekerja jika halaman IG menampilkan tag <video> langsung.
+Pastikan koneksi stabil dan IG tidak memblokir akses otomatis.
