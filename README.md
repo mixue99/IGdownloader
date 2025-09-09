@@ -10,7 +10,7 @@ Script Python untuk  mengunduh video dari halaman Instagram menggunakan Playwrig
 
 ## 🚀 Instalasi
 
-1. Clone repo ini
+1. git clone https://github.com/mixue99/IGdownloader.git
 2. pip install -r requirements.txt
 
 ## 📄 Cara Pakai
