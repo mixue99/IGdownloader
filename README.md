@@ -20,5 +20,5 @@ Script Python untuk  mengunduh video dari halaman Instagram menggunakan Playwrig
 
 ## ⚠️ Catatan
 
-Script ini hanya bekerja jika halaman IG menampilkan tag <video> langsung.
+Script ini hanya bekerja jika halaman IG menampilkan video langsung.
 Pastikan koneksi stabil dan IG tidak memblokir akses otomatis.
